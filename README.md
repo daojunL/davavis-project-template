@@ -17,14 +17,14 @@ I’ve created a proof of concept visualization of this data. It's a bar chart a
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
  * Which is the most popular subject on Udemy Website?
- * Is the number of subscribers and the number of reviews correlated?
- * What are the top 10 most popular courses?
+ * Is the number of subsribers and the number of reviews correlated?
+ * What is the top 10 most popular courses?
 
 ## Sketches
 
-![image](https://user-images.githubusercontent.com/38394902/94642844-f1281880-0317-11eb-8585-3756843fa77c.png)
+![image](https://user-images.githubusercontent.com/38394902/94643844-4ebd6480-031a-11eb-85be-0d64d4091504.png)
 
-The sketch calculates how many courses each subject has. So, from the bar chart, we can conclude which subject is the most popular on the Udemy website. 
+The sketch calculates the how many courses each subject has. So, from the bar chart, we can conclude which subject is the most popular on Udemy website. 
 
 ![image](https://user-images.githubusercontent.com/38394902/94642861-fdac7100-0317-11eb-823b-5c20994bfe1b.png)
 
