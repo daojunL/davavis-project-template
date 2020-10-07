@@ -16,9 +16,9 @@ I’ve created a proof of concept visualization of this data. It's a bar chart a
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * Which is the most popular subject on Udemy Website?
- * Is the number of subsribers and the number of reviews correlated?
- * What is the top 10 most popular courses?
+1. Which is the most popular subject on Udemy Website?
+2. Is the number of subsribers and the number of reviews correlated?
+3. What is the top 10 most popular courses?
 
 ## Sketches
 
@@ -33,3 +33,15 @@ This sketch is a scatter plot of the number of reviews and the number of subscri
 ## Open Questions
 
 - For drawing the scatter plot, maybe there is a need to removing the outliers. For this part, I don't exactly know how to remove the outliers. 
+
+## Schedule of Deliverables
+
+1. Which is the most popular subject on Udemy Website? 
+- Calculating the course number of each subject. - Oct 10th.
+- Finding the overall subscribers for each subject. - Oct 12th.
+2. Is the number of subsribers and the number of reviews correlated?
+- drawing the scatter plot of these two variables. - Oct 19th.
+- Getting rid of some outliers if necessary. - Oct 21th.
+3. What is the top 10 most popular courses?
+- define the popularity. - Oct 28th.
+- drawing a bar chart calculating the top 10 popular courses. - Oct 30th.
