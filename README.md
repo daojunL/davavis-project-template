@@ -46,6 +46,13 @@ This sketch is a scatter plot of the number of reviews and the number of subscri
 - define the popularity. 
 - drawing a bar chart calculating the top 10 popular courses. 
 
+links： 
+
+https://vizhub.com/daojunL/b6aa01710886437ab9660a0c16d33398
+https://vizhub.com/daojunL/928adcd8e59b4bf6989d977191d34850
+https://vizhub.com/daojunL/331f2a0dfde045d781bf8dca08bec6a7
+https://vizhub.com/daojunL/c8a09355faa648c5b4340fff2df18516
+
 ## Interaction 
 
 Add a menu bar to the bar chart so that when we select a variable, the corresponding variable will be highlighted. 
