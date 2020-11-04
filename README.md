@@ -37,11 +37,22 @@ This sketch is a scatter plot of the number of reviews and the number of subscri
 ## Schedule of Deliverables
 
 1. Which is the most popular subject on Udemy Website? 
-- Calculating the course number of each subject. - Oct 10th.
-- Finding the overall subscribers for each subject. - Oct 12th.
+- Calculating the course number of each subject.
+- Finding the overall subscribers for each subject. 
 2. Is the number of subsribers and the number of reviews correlated?
-- drawing the scatter plot of these two variables. - Oct 19th.
-- Getting rid of some outliers if necessary. - Oct 21th.
+- drawing the scatter plot of these two variables. 
+- Getting rid of some outliers if necessary. 
 3. What is the top 10 most popular courses?
-- define the popularity. - Oct 28th.
-- drawing a bar chart calculating the top 10 popular courses. - Oct 30th.
+- define the popularity. 
+- drawing a bar chart calculating the top 10 popular courses. 
+
+## Interaction 
+
+Add a menu bar to the bar chart so that when we select a variable, the corresponding variable will be highlighted. 
+
+## Future work
+
+- Getting rid of some outliers of the dataset when I want to draw a scatter plot between two different variables. 
+- Draw dimension-view plot to reflect the popularity of the course. 
+
+
